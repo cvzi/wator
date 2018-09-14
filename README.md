@@ -8,12 +8,12 @@ Tested on Windows XP
 
 
 
-![Figure 1](https://raw.githubusercontent.com/cvzi/wator/blob/master/Figure_1.png)  
+![Figure 1](Figure_1.png)  
 
 
-![Figure 2](https://raw.githubusercontent.com/cvzi/wator/blob/master/Figure_2.png)  
+![Figure 2](Figure_2.png)  
 
 
-![Figure 3](https://raw.githubusercontent.com/cvzi/wator/blob/master/Figure_3.gif)  
+![Figure 3](Figure_3.gif)  
 
 
